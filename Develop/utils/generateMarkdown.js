@@ -6,7 +6,7 @@ function generateMarkdown(data) {
     installation, 
     usage, 
     contributing, 
-    techInstructions,
+    testInstructions,
     license,
     github,
     email
