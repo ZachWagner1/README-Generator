@@ -25,8 +25,8 @@ ${description}
   * [Contributing](#contributing)
   * [Testing](#testing)
   * [Questions](#questions)
-  * 
-  * ## Installation
+
+## Installation
   ${installation}
 
   ## Usage
